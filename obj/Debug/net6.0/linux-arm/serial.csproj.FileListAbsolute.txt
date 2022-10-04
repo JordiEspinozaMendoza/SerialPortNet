@@ -1,0 +1,5 @@
+/Users/jordiespinoza/Documents/school/sistems-prog/serial/obj/Debug/net6.0/linux-arm/serial.csproj.AssemblyReference.cache
+/Users/jordiespinoza/Documents/school/sistems-prog/serial/obj/Debug/net6.0/linux-arm/serial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordiespinoza/Documents/school/sistems-prog/serial/obj/Debug/net6.0/linux-arm/serial.AssemblyInfoInputs.cache
+/Users/jordiespinoza/Documents/school/sistems-prog/serial/obj/Debug/net6.0/linux-arm/serial.AssemblyInfo.cs
+/Users/jordiespinoza/Documents/school/sistems-prog/serial/obj/Debug/net6.0/linux-arm/serial.csproj.CoreCompileInputs.cache

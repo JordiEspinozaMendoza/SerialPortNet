@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UuUq+Hl12qFAd8bkTP7l+Czbc/QsuADJ7Ta/JDaCuB3ZNdc4oLltPxtkbsZIRKkbP9WVIeIdFxLjam0Qhsu/UA==",
+  "success": true,
+  "projectFilePath": "/Users/jordiespinoza/Documents/school/sistems-prog/serial/serial.csproj",
+  "expectedPackageFiles": [
+    "/Users/jordiespinoza/.nuget/packages/runtime.linux-arm.runtime.native.system.io.ports/6.0.0/runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/runtime.linux-arm64.runtime.native.system.io.ports/6.0.0/runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/runtime.linux-x64.runtime.native.system.io.ports/6.0.0/runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/runtime.native.system.io.ports/6.0.0/runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/runtime.osx-arm64.runtime.native.system.io.ports/6.0.0/runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/runtime.osx-x64.runtime.native.system.io.ports/6.0.0/runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "/Users/jordiespinoza/.nuget/packages/system.io.ports/6.0.0/system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
